@@ -9,9 +9,10 @@ class Trie {
     public void insert(String word) {
         Trie curr = this;
         for(int i =0;i<word.length();i++){
-            if(curr.child[word.charAt(i) - 'a'] == null)
-                curr.child[word.charAt(i) - 'a'] = new Trie();
-            curr = curr.child[word.charAt(i)-'a'];
+            int ch = word.charAt(i) - 'a';
+            if(curr.child[ch] == null)
+                curr.child[ch] = new Trie();
+            curr = curr.child[ch];
         }
         curr.end = true;
     }
@@ -19,9 +20,10 @@ class Trie {
     public boolean search(String word) {
         Trie curr = this;
         for(int i =0;i<word.length();i++){
-            if(curr.child[word.charAt(i) - 'a'] == null)
+            int ch = word.charAt(i) - 'a';
+            if(curr.child[ch] == null)
                 return false;
-            curr = curr.child[word.charAt(i)-'a'];
+            curr = curr.child[ch];
         }
         return  curr.end;
     }
@@ -29,9 +31,10 @@ class Trie {
     public boolean startsWith(String prefix) {
         Trie curr = this;
         for(int i =0;i<prefix.length();i++){
-            if(curr.child[prefix.charAt(i) - 'a'] == null)
+            int ch = prefix.charAt(i) - 'a';
+            if(curr.child[ch] == null)
                 return false;
-            curr = curr.child[prefix.charAt(i)-'a'];
+            curr = curr.child[ch];
         }
         return true;
     }
