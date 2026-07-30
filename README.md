@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0434-number-of-segments-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0014-longest-common-prefix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0496-next-greater-element-i) |
@@ -96,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
