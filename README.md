@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0434-number-of-segments-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Stack
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
