@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0496-next-greater-element-i) |
+| [0877-stone-game](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0877-stone-game) |
 ## Rolling Hash
 |  |
 | ------- |
