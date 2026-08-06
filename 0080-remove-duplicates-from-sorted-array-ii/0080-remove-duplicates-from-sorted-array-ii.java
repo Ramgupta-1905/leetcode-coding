@@ -1,25 +1,19 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int start =0;
-        int end = 0;
-        int cnt =2;
-        int can = nums[start];
+        if(nums.length<=2)
+            return nums.length;
+        int start =2;
+        int end =2 ;
         while(end<nums.length){
-            if(nums[end] == can && cnt >0){
-                int temp = nums[start];
+            if(nums[start-2] != nums[end]){
                 nums[start] = nums[end];
-                nums[end] = temp;
                 start++;
-                end++;
-                cnt--;
-            }
-            else if(nums[end] == can && cnt ==0){
                 end++;
             }
             else{
-                can = nums[end];
-                cnt = 2;
+                end++;
             }
+                
         }
         return start;
     }
