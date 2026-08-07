@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0014-longest-common-prefix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0496-next-greater-element-i) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
