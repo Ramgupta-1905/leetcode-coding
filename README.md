@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
