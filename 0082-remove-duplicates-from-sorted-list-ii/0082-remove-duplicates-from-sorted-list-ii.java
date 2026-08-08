@@ -13,15 +13,11 @@ class Solution {
         if(head == null || head.next == null)
             return head;
 
-        while (head != null && head.next != null && head.val == head.next.val) {
-            head = rootfind(head);
-        }
-
-        if(head == null || head.next == null)
-                    return head;
-        ListNode sprev = head;
-        ListNode prev = head.next;
-        ListNode curr = head.next.next;
+        ListNode dummy = new ListNode();
+        dummy.next = head;
+        ListNode sprev = dummy;
+        ListNode prev = dummy.next;
+        ListNode curr = dummy.next.next;
         while(curr != null){
             if(prev.val == curr.val){
                 sprev.next = rootfind(prev);
@@ -31,10 +27,10 @@ class Solution {
             }
              prev = sprev.next;
               if(prev == null)
-                    return head;
+                    return dummy.next;
             curr = prev.next;
         }
-        return head;
+        return dummy.next;
     }
     private ListNode rootfind(ListNode head){
         if(head == null || head.next == null)
