@@ -17,15 +17,16 @@ class Solution {
             return 0;
 
         for(int i = start;i<s.length();i++){
-           if(Character.isDigit(s.charAt(i))){
+           if(!Character.isDigit(s.charAt(i)))
+                break;
+
                 res = res*10 + (s.charAt(i) -'0');
+                
                  if(res * sign > Integer.MAX_VALUE)
                     return Integer.MAX_VALUE;
                 else if(res* sign < Integer.MIN_VALUE)
                     return Integer.MIN_VALUE;
-           }
-           else
-                break;
+        
         }
         res = res*sign;
        
