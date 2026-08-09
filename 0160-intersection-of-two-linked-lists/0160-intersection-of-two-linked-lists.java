@@ -17,21 +17,13 @@ public class Solution {
         ListNode curr2 = headB;
         while(curr1!=null || curr2 != null){
             if(curr1 != null){
-            if(list.contains(curr1)){
-                return curr1;
-            }
-            else{
+            if(list.contains(curr1))return curr1;
                 list.add(curr1);
-            }
             curr1 = curr1.next;
             }
             if(curr2 !=null){
-            if(list.contains(curr2)){
-                return curr2;
-            }
-            else{
+            if(list.contains(curr2)) return curr2;
                 list.add(curr2);
-            } 
             curr2 = curr2.next;
             }
         }
