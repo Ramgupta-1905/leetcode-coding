@@ -10,13 +10,6 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head.next == null)
-            return true;
-        if(head.next.next == null){
-            if(head.val == head.next.val)return true;
-            else
-                return false;
-        }
         ListNode start = head;
         ListNode end = head;
         while(end !=null && end.next!=null){
