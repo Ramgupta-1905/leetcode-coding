@@ -22,7 +22,7 @@ class Solution {
                 prev.next = curr.next;
             }
             else{
-                prev = prev.next;
+                prev = curr;
             }
              curr = curr.next;
         }
