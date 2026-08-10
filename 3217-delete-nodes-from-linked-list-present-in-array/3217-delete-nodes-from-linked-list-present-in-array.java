@@ -13,11 +13,10 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         for(int x: nums)
             set.add(x);
-        while(set.contains(head.val)){
-            head = head.next;
-        }
-        ListNode curr = head.next;
-        ListNode prev =head;
+        ListNode dummy = new ListNode();
+        dummy.next = head;
+        ListNode prev =dummy;
+        ListNode curr = prev.next;
         while(curr!=null){
             if(set.contains(curr.val)){
                 prev.next = curr.next;
@@ -27,6 +26,6 @@ class Solution {
             }
              curr = curr.next;
         }
-        return head;
+        return dummy.next;
     }
 }
