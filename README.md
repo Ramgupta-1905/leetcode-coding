@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
