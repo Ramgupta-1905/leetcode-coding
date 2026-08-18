@@ -10,38 +10,19 @@
  */
 class Solution {
     public ListNode doubleIt(ListNode head) {
-        
-        head = reverse(head);
-        ListNode curr = head;
-        int carry =0;
-        ListNode prev = null;
-
-        while(curr != null){
-            int x = curr.val *2 +carry;
-            curr.val = x %10;
-            carry = x/10;
-            prev = curr;
-            curr = curr.next;
+        int finalcarr = multiply(head);
+        if(finalcarr != 0){
+        ListNode temp = new ListNode(finalcarr,head);
+        return temp;
         }
-
-        if(carry != 0){
-            ListNode carr = new ListNode(carry);
-            prev.next = carr;
-            carr.next = null;
-        }
-
-        return reverse(head);
+        return head;
     }
-    public ListNode reverse(ListNode head){
-        
-        ListNode prev = null;
-        ListNode curr = head;
-        while(curr != null){
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-        }
-        return prev;
+    public int multiply(ListNode curr){
+        if(curr == null)
+            return 0;
+        int carry = multiply(curr.next);
+        int x = curr.val*2 +carry;
+        curr.val = x%10;
+        return x/10;
     }
 }
