@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
