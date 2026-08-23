@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0705-design-hashset) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0208-implement-trie-prefix-tree) |
+| [0705-design-hashset](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0705-design-hashset) |
 ## Trie
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0705-design-hashset) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0705-design-hashset) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2181-merge-nodes-in-between-zeros) |
