@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3731-find-missing-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3731-find-missing-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -138,10 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0287-find-the-duplicate-number) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Linked List
 |  |
 | ------- |
