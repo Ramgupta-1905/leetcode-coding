@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0142-linked-list-cycle-ii) |
