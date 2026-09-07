@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0905-sort-array-by-parity) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1019-next-greater-node-in-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
 |  |
 | ------- |
