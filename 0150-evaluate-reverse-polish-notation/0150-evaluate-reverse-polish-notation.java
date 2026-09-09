@@ -3,7 +3,7 @@ class Solution {
         Stack<Integer> stack = new Stack<>();
         int ans = 0;
         for(String ch : tokens){
-            if(!stack.isEmpty() &&  (ch.equals("+")|| ch.equals("-") || ch.equals("*") || ch.equals("/")))
+            if(ch.equals("+")|| ch.equals("-") || ch.equals("*") || ch.equals("/"))
              {
                 int a = stack.pop();
                 int b = stack.pop();
