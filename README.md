@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
