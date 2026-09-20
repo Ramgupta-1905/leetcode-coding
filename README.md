@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
