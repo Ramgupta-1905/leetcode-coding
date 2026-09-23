@@ -1,14 +1,14 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        HashMap<Character,String> map = new HashMap<>();
+        HashMap<Character,StringBuilder> map = new HashMap<>();
         int ch = 97;
         for(int i = 2;i<10;i++){
-            String che = "";
+            StringBuilder che = new StringBuilder();
             int k = 3;
             if(i == 7 || i == 9)
                 k = 4;
             for(int j =0;j<k;j++)
-                che = che +(char)ch++;
+                che.append((char)ch++);
             map.put((char)( '0' + i),che);
         }
 
@@ -17,7 +17,7 @@ class Solution {
             res.add(String.valueOf(map.get(digits.charAt(0)).charAt(i)));
         }
         for(int i =1;i<digits.length();i++){
-            String list2 = map.get(digits.charAt(i));
+            StringBuilder list2 = new StringBuilder(map.get(digits.charAt(i)));
             List<String> temp = new ArrayList<>();
             for(int j = 0 ;j<res.size();j++){
                 for(int k =0;k<list2.length();k++){
