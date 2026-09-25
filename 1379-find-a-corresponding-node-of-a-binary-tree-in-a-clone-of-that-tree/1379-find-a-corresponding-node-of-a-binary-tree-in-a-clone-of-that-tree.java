@@ -19,9 +19,6 @@ class Solution {
         TreeNode leftresult = find(root.left,target);
         if(leftresult != null && leftresult.val == target)
             return leftresult;
-        TreeNode rightresult =  find(root.right,target);
-        if(rightresult != null && rightresult.val == target)
-            return rightresult;
-        return null;
+        return find(root.right,target);
     }
 }
