@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0434-number-of-segments-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
