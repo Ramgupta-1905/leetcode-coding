@@ -6,8 +6,7 @@ class Solution {
             currsum +=nums[i];
             maxsum = Math.max(maxsum,currsum);
            if(currsum <0)
-                currsum = 0;
-            
+                currsum = 0; 
         }
         return maxsum;
     }
