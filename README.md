@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0705-design-hashset) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0633-sum-of-square-numbers) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Linked List
@@ -331,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
