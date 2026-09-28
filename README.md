@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3498-reverse-degree-of-a-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1854-maximum-population-year](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1854-maximum-population-year) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -352,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0566-reshape-the-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
