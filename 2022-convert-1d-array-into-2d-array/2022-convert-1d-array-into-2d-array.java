@@ -3,8 +3,16 @@ class Solution {
         if(m*n != original.length) 
             return new int[0][0];
         int[][] res = new int[m][n];
-         for (int i = 0; i < original.length; i++) {
-            res[i / n][i % n] = original[i];
+        int row = 0;
+        int col =0;
+        for(int x: original){
+            res[row][col] = x;
+            if(col == n-1){
+                row++;
+                col=0;
+            }
+            else
+                col++;
         }
         return res;
     }
