@@ -7,7 +7,8 @@ class Solution {
                 curr +=1;
             if(s.charAt(i) == ')')
                 curr -=1;
-            max = Math.max(curr,max);
+            if(max<curr)
+                max = curr;
         }
         return max;
     }
