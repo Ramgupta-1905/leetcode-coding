@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0633-sum-of-square-numbers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
