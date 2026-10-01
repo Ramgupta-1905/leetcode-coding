@@ -1,11 +1,11 @@
 class Solution {
     public int hammingDistance(int x, int y) {
         int xor = x^y;
-        String num = binary(xor);
         int count =0;
-        for(int i =0;i<num.length();i++){
-            if(num.charAt(i) == '1')
-                count++;
+        while(xor!=0){
+            int res = xor & 1;
+            if(res == 1) count++;
+            xor = xor >> 1;
         }
         return count;
     }
