@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0434-number-of-segments-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
+| [1023-camelcase-matching](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1023-camelcase-matching) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0905-sort-array-by-parity) |
+| [1023-camelcase-matching](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1023-camelcase-matching) |
 | [1768-merge-strings-alternately](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1019-next-greater-node-in-linked-list) |
+| [1023-camelcase-matching](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1023-camelcase-matching) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0208-implement-trie-prefix-tree) |
+| [1023-camelcase-matching](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1023-camelcase-matching) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0572-subtree-of-another-tree) |
+| [1023-camelcase-matching](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1023-camelcase-matching) |
 | [1668-maximum-repeating-substring](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1668-maximum-repeating-substring) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
