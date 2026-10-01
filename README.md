@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0461-hamming-distance) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
