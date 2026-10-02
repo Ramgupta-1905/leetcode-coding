@@ -20,27 +20,28 @@ class Solution {
         int k =0;
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
-        ArrayList<Integer> list = new ArrayList<>();
+        int precr = 0;
+        int first = 0;
+        int cr =0;
         while(next!= null){
-            if(curr.val<prev.val && curr.val < next.val){
-                list.add(k);
-            }
-            if(curr.val > prev.val && curr.val > next.val){
-            list.add(k);
+            if((curr.val<prev.val && curr.val < next.val ) || (curr.val > prev.val && curr.val > next.val)){
+                cr++;
+                if(cr==1)
+                    first = k;
+                else
+                    min = Math.min(min,k-precr);
+                max = Math.max(max,k-first);
+                precr = k;
             }
             k++;
             prev = curr;
             curr = next;
             next = next.next;
         }
-        for(int i =0;i<list.size()-1;i++){
-            int distance = Math.abs(list.get(i) - list.get(i+1));
-            min = Math.min(min,distance);
-        }
-        if(list.size() <2)
+        if(cr <2)
             return res;
         res[0] = min;
-        res[1] = list.get(list.size()-1) - list.get(0);
+        res[1] = max;
         return res;
     }
 }
