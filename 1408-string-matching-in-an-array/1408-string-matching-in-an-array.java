@@ -6,12 +6,13 @@ class Solution {
             for(int j =0;j<words.length;j++){
                 if(i==j)
                     continue;
-                if(words[j].contains(words[i]) && !set.contains(words[i])){
-                    list.add(words[i]);
+                if(words[j].contains(words[i])){
                     set.add(words[i]);
                 }
             }
         }
+        for(String x :set)
+            list.add(x);
         return list;
     }
 }
