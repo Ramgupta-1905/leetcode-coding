@@ -10,7 +10,7 @@ class Solution {
         int max = -1;
         for(int key : map.keySet()){
             if(key == map.get(key)){
-                max = key;
+                max = Math.max(key,max);
             }
         }
         return max;
