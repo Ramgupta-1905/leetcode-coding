@@ -5,9 +5,8 @@ class Solution {
             int distance = Math.abs(nums[i]);
             if(Math.abs(can) == distance)
                 can = Math.max(nums[i],can);
-            if(Math.abs(can)>distance){
+            else if(Math.abs(can)>distance)
                 can = nums[i];
-            }
         }
         return can;
     }
