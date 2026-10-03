@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1019-next-greater-node-in-linked-list) |
 | [1023-camelcase-matching](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1023-camelcase-matching) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1394-find-lucky-integer-in-an-array) |
