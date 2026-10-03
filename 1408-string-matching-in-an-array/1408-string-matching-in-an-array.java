@@ -8,6 +8,7 @@ class Solution {
                     continue;
                 if(words[j].contains(words[i])){
                     set.add(words[i]);
+                    break;
                 }
             }
         }
