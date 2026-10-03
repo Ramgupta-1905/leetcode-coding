@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1023-camelcase-matching) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1408-string-matching-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1768-merge-strings-alternately) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1019-next-greater-node-in-linked-list) |
 | [1023-camelcase-matching](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1023-camelcase-matching) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1408-string-matching-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1854-maximum-population-year](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1854-maximum-population-year) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0686-repeated-string-match) |
 | [1023-camelcase-matching](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1023-camelcase-matching) |
+| [1408-string-matching-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1668-maximum-repeating-substring) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
