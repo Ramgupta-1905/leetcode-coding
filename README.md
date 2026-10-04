@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0877-stone-game) |
 | [1668-maximum-repeating-substring](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1668-maximum-repeating-substring) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2220-minimum-bit-flips-to-convert-number) |
