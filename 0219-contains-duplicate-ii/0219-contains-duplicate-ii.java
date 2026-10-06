@@ -3,14 +3,13 @@ class Solution {
         int start = 0;
         int end = 0;
         Set<Integer> set = new HashSet<>();
-        while(end < nums.length){
-            if(end<=k){
+        while(end <nums.length && end<=k){
                 if(set.contains(nums[end]))
                     return true;
                 set.add(nums[end]);
                 end++;
-                continue;
             }
+        while(end < nums.length){
                 set.remove(nums[start]);
                 if(set.contains(nums[end]))
                     return true;
