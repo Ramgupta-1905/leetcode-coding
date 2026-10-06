@@ -1,9 +1,7 @@
 class NumArray {
     int[] arr;
     public NumArray(int[] nums) {
-        arr = new int[nums.length];
-        for(int i =0;i<arr.length;i++)
-            arr[i] = nums[i];
+        arr = Arrays.copyOf(nums,nums.length);
     }
     
     public int sumRange(int left, int right) {
