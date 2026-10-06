@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0888-fair-candy-swap) |
+| [0896-monotonic-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0989-add-to-array-form-of-integer) |
