@@ -8,6 +8,8 @@ class Solution {
             if(nums[i] > nums[i+1])
                 valid2 = false;
         }
-        return valid||valid2;
+        if (!valid && !valid2)
+            return false;
+        return true;
     }
 }
