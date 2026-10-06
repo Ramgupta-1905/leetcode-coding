@@ -9,15 +9,14 @@ class Solution {
                     return true;
                 set.add(nums[end]);
                 end++;
+                continue;
             }
-            else{
                 set.remove(nums[start]);
                 if(set.contains(nums[end]))
                     return true;
                 set.add(nums[end]);
                 start++;
                 end++;
-            }
         }
         return false;
     }
