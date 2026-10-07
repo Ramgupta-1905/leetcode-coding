@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1903-largest-odd-number-in-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2239-find-closest-number-to-zero) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1903-largest-odd-number-in-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0566-reshape-the-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Z Algorithm
 |  |
 | ------- |
