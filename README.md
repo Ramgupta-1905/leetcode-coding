@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2469-convert-the-temperature) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2549-count-distinct-numbers-on-board) |
+| [2579-count-total-number-of-colored-cells](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2579-count-total-number-of-colored-cells) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3345-smallest-divisible-digit-product-i) |
