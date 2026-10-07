@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0141-linked-list-cycle) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0566-reshape-the-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2022-convert-1d-array-into-2d-array) |
