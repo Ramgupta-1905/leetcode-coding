@@ -9,23 +9,15 @@ class Solution {
                 count++;
             }
             else{
-                if(count>=3){
-                List<Integer> list = new ArrayList<>();
-                list.add(start);
-                list.add(i-1);
-                res.add(list);
-                }
+                if(count>=3)
+                    res.add(Arrays.asList(start, i - 1));
                 start = i;
                 can = s.charAt(i);
                 count =1;
             }
         }
-        if(count>=3){
-                List<Integer> list = new ArrayList<>();
-                list.add(start);
-                list.add(s.length()-1);
-                res.add(list);
-                }
+        if(count>=3)
+            res.add(Arrays.asList(start, s.length()-1));
         return res;
     }
 }
