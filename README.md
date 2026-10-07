@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3498-reverse-degree-of-a-string) |
