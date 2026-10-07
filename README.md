@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2549-count-distinct-numbers-on-board) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2239-find-closest-number-to-zero) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2549-count-distinct-numbers-on-board) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2549-count-distinct-numbers-on-board) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2413-smallest-even-multiple](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2469-convert-the-temperature) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2549-count-distinct-numbers-on-board) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3345-smallest-divisible-digit-product-i) |
