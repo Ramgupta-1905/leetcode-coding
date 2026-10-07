@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1952-three-divisors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2413-smallest-even-multiple](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2469-convert-the-temperature) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3345-smallest-divisible-digit-product-i) |
