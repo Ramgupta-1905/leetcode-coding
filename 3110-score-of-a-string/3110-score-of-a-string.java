@@ -4,7 +4,7 @@ class Solution {
         int sum =0;
         for(int i =1;i<s.length();i++){
             int curr = (int)s.charAt(i);
-            sum = sum +Math.abs(prev-curr);
+            sum = sum +Math.abs(s.charAt(i) - s.charAt(i - 1));
             prev = curr;
         }
         return sum;
