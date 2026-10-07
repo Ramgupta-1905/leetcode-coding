@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1688-count-of-matches-in-tournament) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1952-three-divisors) |
