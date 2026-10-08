@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
