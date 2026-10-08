@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0172-factorial-trailing-zeroes) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0338-counting-bits) |
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1952-three-divisors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
