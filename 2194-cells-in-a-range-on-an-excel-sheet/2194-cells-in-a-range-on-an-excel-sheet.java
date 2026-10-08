@@ -5,7 +5,10 @@ class Solution {
         int row2 = s.charAt(4) -'0';
         for(char i = s.charAt(0);i<=s.charAt(3);i++){
             for(int j = row1;j<=row2;j++){
-                res.add(i+String.valueOf(j));
+                StringBuilder sb = new StringBuilder();
+                sb.append(i);
+                sb.append(j);
+                res.add(sb.toString());
             }
         }
         return res;
