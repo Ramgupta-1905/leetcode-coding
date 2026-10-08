@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3875-construct-uniform-parity-array-i) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
 | ------- |
