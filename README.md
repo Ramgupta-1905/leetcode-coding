@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0434-number-of-segments-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0686-repeated-string-match) |
+| [0771-jewels-and-stones](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0771-jewels-and-stones) |
 | [0830-positions-of-large-groups](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1021-remove-outermost-parentheses) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1394-find-lucky-integer-in-an-array) |
