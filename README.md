@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2239-find-closest-number-to-zero) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2549-count-distinct-numbers-on-board) |
+| [2706-buy-two-chocolates](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2706-buy-two-chocolates](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2706-buy-two-chocolates) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1903-largest-odd-number-in-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2706-buy-two-chocolates](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
