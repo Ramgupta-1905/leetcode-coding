@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0989-add-to-array-form-of-integer) |
