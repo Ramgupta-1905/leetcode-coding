@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0228-summary-ranges) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0486-predict-the-winner) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/2413-smallest-even-multiple) |
 ## Prime Factorization
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1952-three-divisors) |
 ## Memoization
 |  |
@@ -532,4 +537,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0543-diameter-of-binary-tree) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
