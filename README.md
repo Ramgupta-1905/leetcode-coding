@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1748-sum-of-unique-elements](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1854-maximum-population-year](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ramgupta-1905/leetcode-coding/tree/master/1991-find-the-middle-index-in-array) |
