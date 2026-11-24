@@ -16,14 +16,9 @@ class Solution {
                 max = x[0];
         }
         for(int i = 1;i<=max;i++){
-            if(map1.containsKey(i) && map2.containsKey(i)){
-                res.add(Arrays.asList(i,map1.get(i) +map2.get(i)));
-            }
-            else if(map1.containsKey(i)){
-                res.add(Arrays.asList(i, map1.get(i)));
-            }
-            else if(map2.containsKey(i)){
-                res.add(Arrays.asList(i, map2.get(i)));
+            if(map1.containsKey(i) || map2.containsKey(i)){
+                int val = map1.getOrDefault(i,0)+map2.getOrDefault(i,0);
+                res.add(Arrays.asList(i,val));
             }
         }
     return res;
