@@ -17,22 +17,13 @@ class Solution {
         }
         for(int i = 1;i<=max;i++){
             if(map1.containsKey(i) && map2.containsKey(i)){
-                List temp = new ArrayList<>();
-                temp.add(i);
-                temp.add(map1.get(i) +map2.get(i));
-                res.add(temp);
+                res.add(Arrays.asList(i,map1.get(i) +map2.get(i)));
             }
             else if(map1.containsKey(i)){
-                List temp = new ArrayList<>();
-                temp.add(i);
-                temp.add(map1.get(i));
-                res.add(temp);
+                res.add(Arrays.asList(i, map1.get(i)));
             }
             else if(map2.containsKey(i)){
-                List temp = new ArrayList<>();
-                temp.add(i);
-                temp.add(map2.get(i));
-                res.add(temp);
+                res.add(Arrays.asList(i, map2.get(i)));
             }
         }
     return res;
